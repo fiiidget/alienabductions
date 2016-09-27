@@ -24,4 +24,8 @@ ufo_story = soup.find_all("pre")
 for story in ufo_story:
     text_lists.append(story)
 
-print(len(text_lists))
+#print(len(text_lists))
+
+with open('mnmufon.csv', 'w', newline='') as f:
+    writer = csv.writer(f)
+    writer.writerow(text_lists)
