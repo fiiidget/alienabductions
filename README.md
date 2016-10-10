@@ -1,7 +1,11 @@
-# alienabductions
+# What We Talk About When We Talk About Getting Abducted by Aliens
 This project, as a part of Doctoral Seminar LIS 3600: The Digital & The Humanities at the University of Pittsburgh's iSchool, explores the Western fascination with extra terrestrials, UFOs and alien encounters over the past 150 years. Drawing on early and pulp scifi, newspaper articles, government reports, and first-person encounters, this project aims to depict the history of our understanding of what an 'alien' is, and how disparate genres and narrative forms influence our cultural understanding of the ultimate 'Other'.
 
 ## Research Questions
+- What are the prevailing terms, actions and themes that appear in stories about UFO encounters and alien abductions? How have they changed over time?
+- In what ways has the history of SciFi literature influenced the way people describe their own encounters with extraterrestrials?
+- What are the documents that UFO conspiracy theorists refer to when connecting the US government to UFOs, and how do they verify the legitimacy of these documents?
+
 
 ## 10/08/16:
 ### Resources collected:
@@ -36,5 +40,7 @@ While it may seem that texts, such as the Roswell news stories, and the Robertso
 As this research moves into analysis, all of the texts will be examined using a variety of tools and methods, including word-frequency analysis (using Voyant), topic clustering (using Gephi), and potentially sentiment analysis (using IBM Watson's Personality Insights). Sentiment analysis, especially with freely available tools can be tricky, since the "baseline" dictionary to which texts are compared often assumes contemporary vocabulary, and a certain style of rhetoric.
 
 Before conducting this analysis, however, the UFO incident stories need to be further cleaned and cataloged. Rather than reading and evaluating each narrative individually, my aim is to look at larger themes and trends over time. The next step in this process is to sort the ufocasebook.com incidents into categories by year/decade/other time spans, so that their texts can be better analyzed as a whole.
+
+
 
 ### Further Reading & Resources
