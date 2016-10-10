@@ -58,8 +58,8 @@ Lambiotte, Renaud, Jean-Charles Delvenne, and Mauricio Barahona. _“Laplacian D
 Lin, Y. (2012). "Transdisciplinarity and digital humanities: Lessons learned from developing text-mining tools for textual analysis",   _Understanding Digital Humanities_, Palgrave Macmillan, Houndmills, Basingstoke, pp. 295-314.
 
 #### Tools
--Gephi: http://gephi.org
--IBM Watson Personality Insights: http://www.ibm.com/watson/developercloud/personality-insights.html
--Tableau Public: http://public.tableau.com
--TimelineJS: http://timeline.knightlab.com
--Voyant: http://voyant-tools.org/
+- Gephi: http://gephi.org
+- IBM Watson Personality Insights: http://www.ibm.com/watson/developercloud/personality-insights.html
+- Tableau Public: http://public.tableau.com
+- TimelineJS: http://timeline.knightlab.com
+- Voyant: http://voyant-tools.org/
