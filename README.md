@@ -42,7 +42,7 @@ As this research moves into analysis, all of the texts will be examined using a 
 Before conducting this analysis, however, the UFO incident stories need to be further cleaned and cataloged. Rather than reading and evaluating each narrative individually, my aim is to look at larger themes and trends over time. The next step in this process is to sort the ufocasebook.com incidents into categories by year/decade/other time spans, so that their texts can be better analyzed as a whole. This will be done with a python script that uses regular expressions to find the date within the document (located at a predictable place within the text), and sorts them into the appropriate lists, which will then be written as .csv files.
 
 After running all of the available resources through the various tools, listed above, I will evaluate how best to interpret, describe and present my findings. My preliminary idea is a timeline, since these documents span
-nearly 150 years worth of history. Tools such as timeline.js and Tableau Public would be useful for creating such visualizations. Additionally, if the cluster analysis with Gephi proves a rich vein, further network analysis may be justified.
+nearly 150 years worth of history. Tools such as TimelineJS and Tableau Public would be useful for creating such visualizations. Additionally, if the cluster analysis with Gephi proves a rich vein, further network analysis may be justified.
 
 ### Further Reading & Resources
 Bader, C. D., Mencken, F. C. C., & Baker, J. O. (2011). _Paranormal America : Ghost Encounters, UFO Sightings, Bigfoot Hunts, and Other Curiosities in Religion and Culture_. New York, US: NYU Press. Retrieved from http://www.ebrary.com.pitt.idm.oclc.org
@@ -58,8 +58,8 @@ Lambiotte, Renaud, Jean-Charles Delvenne, and Mauricio Barahona. _“Laplacian D
 Lin, Y. (2012). "Transdisciplinarity and digital humanities: Lessons learned from developing text-mining tools for textual analysis",   _Understanding Digital Humanities_, Palgrave Macmillan, Houndmills, Basingstoke, pp. 295-314.
 
 #### Tools
-Gephi: http://gephi.org
-IBM Watson Personality Insights: http://www.ibm.com/watson/developercloud/personality-insights.html
-Tableau Public: http://public.tableau.com
-TimelineJS: http://timeline.knightlab.com
-Voyant: http://voyant-tools.org/
+-Gephi: http://gephi.org
+-IBM Watson Personality Insights: http://www.ibm.com/watson/developercloud/personality-insights.html
+-Tableau Public: http://public.tableau.com
+-TimelineJS: http://timeline.knightlab.com
+-Voyant: http://voyant-tools.org/
