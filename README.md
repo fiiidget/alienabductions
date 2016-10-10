@@ -18,7 +18,7 @@ This project, as a part of Doctoral Seminar LIS 3600: The Digital & The Humaniti
   - Spawn of the Stars, by Charles Willard Diffin
   - The Jovian Jest, by By Lilith Lorraine
   - Vandals of the Stars, by By A. T. Locke
-- "The Aliens" (1959), by Murray Leinster
+- ["The Aliens"](http://www.gutenberg.org/ebooks/24104) (1959), by Murray Leinster
 
 #### Roswell Incident
 - [United Press Roswell Telex Report](http://roswellproof.homestead.com/United_Press_Telexes.html), July 8, 1947
