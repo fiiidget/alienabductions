@@ -10,9 +10,9 @@ This project, as a part of Doctoral Seminar LIS 3600: The Digital & The Humaniti
 ## 10/08/16:
 ### Resources collected:
 #### SciFi
-- Full text of "The War of the Worlds", (1898) by H.G. Wells
-- Full text of "From the Earth to the Moon" (1865) and "Around the Moon" (1870) by Jules Verne
-- Text of space-related stories from Astounding Stories from January - June 1930
+- Full text of "[The War of the Worlds](http://www.gutenberg.org/ebooks/36)", (1898) by H.G. Wells
+- Full text of "[From the Earth to the Moon](http://www.gutenberg.org/ebooks/83)" (1865) and "Around the Moon" (1870) by Jules Verne (link to both books)
+- Text of space-related stories from Astounding Stories from February - June 1930 ([Feb](http://www.gutenberg.org/ebooks/28617), [March](http://www.gutenberg.org/ebooks/29607), [April](http://www.gutenberg.org/ebooks/29390), [May](http://www.gutenberg.org/ebooks/29809), [June](http://www.gutenberg.org/ebooks/29848) )
   - Brigands of the Moon, by Ray Cummings
   - Into Space, by Sterner St. Paul
   - Spawn of the Stars, by Charles Willard Diffin
@@ -21,11 +21,11 @@ This project, as a part of Doctoral Seminar LIS 3600: The Digital & The Humaniti
 - "The Aliens" (1959), by Murray Leinster
 
 #### Roswell Incident
-- United Press Roswell Telex Report, July 8, 1947
-- Associated Press Roswell Reports (2), July 8, 1947
-- Forth Worth Star-Telegram "New Mexico Rancher's 'Flying Disk' Proves to Be Weather Balloon-Kite"
-- Roswell Daily Record "Harassed Rancher who Located 'Saucer' Sorry He Told About it"
-- Robertson Panel proceedings, contained in the Durant Report (1953)
+- [United Press Roswell Telex Report](http://roswellproof.homestead.com/United_Press_Telexes.html), July 8, 1947
+- [Associated Press Roswell Reports](http://roswellproof.homestead.com/AP_Earliest_July8.html) [(2)](http://roswellproof.homestead.com/LA_HeraldExpress_July8.html), July 8, 1947
+- [Forth Worth Star-Telegram "New Mexico Rancher's 'Flying Disk' Proves to Be Weather Balloon-Kite"](http://roswellproof.homestead.com/FortWorthST_July9.html) July 9, 1947
+- [Roswell Daily Record "Harassed Rancher who Located 'Saucer' Sorry He Told About it"](http://roswellproof.homestead.com/brazel_interview.html) Roswell Daily Record, July 9, 1947
+- [Robertson Panel proceedings, contained in the Durant Report](http://www.cufon.org/cufon/robert.htm) (1953)
 
 #### Encounter Stories
 - 402 alien/UFO encounter stories from http://ufocasebook.com (1878-2012)
@@ -39,8 +39,27 @@ While it may seem that texts, such as the Roswell news stories, and the Robertso
 ### Next Steps
 As this research moves into analysis, all of the texts will be examined using a variety of tools and methods, including word-frequency analysis (using Voyant), topic clustering (using Gephi), and potentially sentiment analysis (using IBM Watson's Personality Insights). Sentiment analysis, especially with freely available tools can be tricky, since the "baseline" dictionary to which texts are compared often assumes contemporary vocabulary, and a certain style of rhetoric.
 
-Before conducting this analysis, however, the UFO incident stories need to be further cleaned and cataloged. Rather than reading and evaluating each narrative individually, my aim is to look at larger themes and trends over time. The next step in this process is to sort the ufocasebook.com incidents into categories by year/decade/other time spans, so that their texts can be better analyzed as a whole.
+Before conducting this analysis, however, the UFO incident stories need to be further cleaned and cataloged. Rather than reading and evaluating each narrative individually, my aim is to look at larger themes and trends over time. The next step in this process is to sort the ufocasebook.com incidents into categories by year/decade/other time spans, so that their texts can be better analyzed as a whole. This will be done with a python script that uses regular expressions to find the date within the document (located at a predictable place within the text), and sorts them into the appropriate lists, which will then be written as .csv files.
 
-
+After running all of the available resources through the various tools, listed above, I will evaluate how best to interpret, describe and present my findings. My preliminary idea is a timeline, since these documents span
+nearly 150 years worth of history. Tools such as timeline.js and Tableau Public would be useful for creating such visualizations. Additionally, if the cluster analysis with Gephi proves a rich vein, further network analysis may be justified.
 
 ### Further Reading & Resources
+Bader, C. D., Mencken, F. C. C., & Baker, J. O. (2011). _Paranormal America : Ghost Encounters, UFO Sightings, Bigfoot Hunts, and Other Curiosities in Religion and Culture_. New York, US: NYU Press. Retrieved from http://www.ebrary.com.pitt.idm.oclc.org
+
+Barkun, M. (2013). _A culture of conspiracy: Apocalyptic visions in contemporary America_ (Vol. 15). Univ of California Press.
+
+Card, Stuart K, Jock D Mackinlay, and Ben Shneiderman. _Readings in Information Visualization: Using Vision to Think._ Morgan Kaufmann, 1999.
+
+Gepper, A. T. (2012). "Extraterrestrial encounters: UFOs, science and the quest for transcendence, 1947-1972." _History & Technology_, 28(3), 335-362. doi:10.1080/07341512.2012.723340
+
+Lambiotte, Renaud, Jean-Charles Delvenne, and Mauricio Barahona. _“Laplacian Dynamics and Multiscale Modular Structure in Networks.”_ (2009) http://arxiv.org/abs/0812.1770.
+
+Lin, Y. (2012). "Transdisciplinarity and digital humanities: Lessons learned from developing text-mining tools for textual analysis",   _Understanding Digital Humanities_, Palgrave Macmillan, Houndmills, Basingstoke, pp. 295-314.
+
+#### Tools
+Gephi: http://gephi.org
+IBM Watson Personality Insights: http://www.ibm.com/watson/developercloud/personality-insights.html
+Tableau Public: http://public.tableau.com
+TimelineJS: http://timeline.knightlab.com
+Voyant: http://voyant-tools.org/
