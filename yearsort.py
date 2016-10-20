@@ -34,9 +34,13 @@ for root, dirs, filenames in os.walk(indir):
                 #this adds the text as the key to the dictionary. As of right now, it creates duplicates of keys with the same years
                 # break #it stops looking once it finds the first one
 
+
+
             else:
                 continue
 
             #general testing for other four-digit numbers in the text
             #it keeps going line to line until it does find one.
 uprint(found, all_years)
+
+#maybe do it as is and consolidate in openrefine. maybe? Next step is to write to csv.
