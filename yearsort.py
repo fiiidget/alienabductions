@@ -41,9 +41,9 @@ for root, dirs, filenames in os.walk(indir):
                 continue
 
 
-write = csv.writer(open('storybyyear.csv', 'w'))
+write = csv.writer(open('storybyyear.tsv', 'w'))
 
 for key, value in all_years.items():
-     write.writerow([key, value])
+     write.writerow([key, " ", value])
 
 # write all of this to a csv file, which I will then clean up some with openrefine.
