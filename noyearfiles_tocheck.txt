@@ -1,30 +1,30 @@
-text1999britishcharter.html.txt
-texta5road.html.txt
-texta70abduction.html.txt
-textaegeansea1990.html.txt
-textalbany.html.txt
-textalderneycoast.html.txt
-textamericanwest564.html.txt
-textcolares1977.html.txt
-textglasgoairbus320nearmiss.html.txt
-textkincrossincident.html.txt
-textklondikehighway1996.html.txt
-textnorthcanolroadabduction.html.txt
-textphoenixlights.html.txt
-textpitlochryphotograph.html.txt
-text_1989ussubmarine.html.txt
-text_australianpilot.html.txt
-text_Chiles.html.txt
-text_gundiahmackay.html.txt
-text_hollandmichigan1994.html.txt
-text_ilkleymoor.html.txt
-text_leylandlancashire.html.txt
-text_Papua.html.txt
-text_reedalien.html.txt
-text_tehraniran.html.txt
-text_tennessee100204.html.txt
-text_trinidadeisland.html.txt
-text_tyronepa2002.html.txt
-text_ufo-photo-mojave-desert-1985.html.txt
-text_Varginha.html.txt
-text_Walton.html.txt
+x text1999britishcharter.html.txt
+x texta5road.html.txt
+x texta70abduction.html.txt
+x textaegeansea1990.html.txt
+x textalbany.html.txt
+x textalderneycoast.html.txt
+x textamericanwest564.html.txt
+x textcolares1977.html.txt
+x textglasgoairbus320nearmiss.html.txt
+****???? textkincrossincident.html.txt
+x textklondikehighway1996.html.txt
+x textnorthcanolroadabduction.html.txt
+x textphoenixlights.html.txt
+x textpitlochryphotograph.html.txt
+x text_1989ussubmarine.html.txt
+x text_australianpilot.html.txt
+x text_Chiles.html.txt
+x text_gundiahmackay.html.txt
+x text_hollandmichigan1994.html.txt
+x text_ilkleymoor.html.txt
+x text_leylandlancashire.html.txt
+x text_Papua.html.txt
+x text_reedalien.html.txt
+x text_tehraniran.html.txt
+x text_tennessee100204.html.txt
+x text_trinidadeisland.html.txt
+x text_tyronepa2002.html.txt
+****???? text_ufo-photo-mojave-desert-1985.html.txt
+x text_Varginha.html.txt
+x text_Walton.html.txt
