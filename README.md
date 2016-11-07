@@ -29,11 +29,19 @@ Barkun, M. (2013). _A culture of conspiracy: Apocalyptic visions in contemporary
 
 Card, Stuart K, Jock D Mackinlay, and Ben Shneiderman. _Readings in Information Visualization: Using Vision to Think._ Morgan Kaufmann, 1999.
 
+Denzler, Brenda. *The Lure of the Edge: Scientific Passions, Religious Beliefs, and the Pursuit of UFOs*. Univ of California Press, 2001.
+
 Gepper, A. T. (2012). "Extraterrestrial encounters: UFOs, science and the quest for transcendence, 1947-1972." _History & Technology_, 28(3), 335-362. doi:10.1080/07341512.2012.723340
+
+Jacobs, David Michael. *The controversy over unidentified flying objects in America: 1896-1973*. University of Wisconsin--Madison, 1973.
+
+Keyhoe, Donald Edward. *Flying saucers from outer space*. Holt, 1953.
 
 Lambiotte, Renaud, Jean-Charles Delvenne, and Mauricio Barahona. _“Laplacian Dynamics and Multiscale Modular Structure in Networks.”_ (2009) http://arxiv.org/abs/0812.1770.
 
 Lin, Y. (2012). "Transdisciplinarity and digital humanities: Lessons learned from developing text-mining tools for textual analysis",   _Understanding Digital Humanities_, Palgrave Macmillan, Houndmills, Basingstoke, pp. 295-314.
+
+Wortman, Anna. "The Roswell Myth in the FBI Files: Aliens, UFOs, and the Cold War." *Polish Journal for American Studies*, Vol. 1, pp. 181-190.  Wydawnictwo Naukowe UAM, Poznan, 2004
 
 #### Tools
 - IBM Watson Personality Insights: http://www.ibm.com/watson/developercloud/personality-insights.html
