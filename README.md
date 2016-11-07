@@ -45,6 +45,6 @@ Wortman, Anna. "The Roswell Myth in the FBI Files: Aliens, UFOs, and the Cold Wa
 
 #### Tools
 - IBM Watson Personality Insights: http://www.ibm.com/watson/developercloud/personality-insights.html
+- MALLET http://mallet.cs.umass.edu
 - Tableau Public: http://public.tableau.com
-- TimelineJS: http://timeline.knightlab.com
 - Voyant: http://voyant-tools.org/
