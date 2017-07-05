@@ -21,7 +21,14 @@ with open("RP_subURLs.csv") as f:
 
         soup = BeautifulSoup(page_html, "html.parser")
         #
-        page_links = soup.find_all("a")
+        for link in soup.find_all("a"):
+            alink = link.get('href')
+            # for lnk in alink:
+            with open('roswell_links.csv', 'w') as f:
+                writer = csv.writer(f)
+                writer.writerow([subpage, alink])
+
+                print(subpage, alink)
         # # story_table = soup.find_all("td", attrs = {"style" : "border: 0px solid rgb(116, 116, 116);"})
         # #
         # # for table_row in story_table:
@@ -31,16 +38,14 @@ with open("RP_subURLs.csv") as f:
         # #         a_link = row.find_all("a")
         # #
         # for the_link in page_links:
-        #     link = the_link["href"]
-        # #
-        #     link_list.append(link)
+        #     a_link = the_link.find_all("href")
+        #     link_list.append(a_link)
 #CURRENTLY: (NOON 6/30) IS NOT WRITING TO A LIST, JUST LOOPING THROUGH AND LOOKING.
 #NEED TO GET JUST THE HREF, WITHOUT AN IDIOT ERROR.
 #WHY
 
 #
-print(page_links)
+            # print(link.get("href")) this successfully prints the links
 # #
-# # with open('mnmufon.csv', 'w', newline='') as f:
-# #     writer = csv.writer(f)
-# #     writer.writerow(text_lists)
+
+#okay, it just needs to be inside another loop so it doesn't overwrite, and I think you'll have it
