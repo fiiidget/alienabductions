@@ -1,6 +1,6 @@
-#I Want to Be Believed: Content and Structure as Value Propositions in Ufology Websites
+# I Want to Be Believed: Content and Structure as Value Propositions in Ufology Websites
 
-##Introduction
+## Introduction
 While humans have reported seeing strange objects in the skies for as long as we have been documenting our experiences, the popularity and public fascination with these encounters has ebbed and flowed over the course of history. Since the industrial revolution, the possibility that creatures from other planets may have technologies similar or more advanced than our own has been a recurrent narrative in popular media (Jacobs 1973). Growing out of this fascination, especially after the widely-publicized “Roswell Incident” in 1947,  and in subsequent years, under the shadow of the USSR in the heart of the Cold War, groups dedicated to investigating UFO phenomena have emerged, spending their time and labor in an area that they believe is underrepresented in traditional scholarship (Denzler 2001, Wortman 2004). This project looks particularly at the evolution of these groups since the emergence of the internet, within the context of access to resources and the subjective nature of ‘acceptable’ resources and rhetoric, using documents posted onto Ufology websites.
 
 This project, since it first began in Fall 2016, has been divided into two major sections:
